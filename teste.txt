@@ -1,1 +1,7 @@
-testando
+comandos git
+
+git init
+git status
+git add . (todos arquivos), git *.txt, git read.me (coloca na stage area)
+git commit -m "commit inicial" (envia pro repositório do git)
+git commit -a -m "commit inicial" (pula a stage area e commita direto)
